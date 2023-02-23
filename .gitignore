@@ -1,0 +1,5 @@
+/fastlane/report.xml
+.DS_Store
+.env
+*.app.dSYM.zip
+*.ipa
